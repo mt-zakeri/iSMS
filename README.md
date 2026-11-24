@@ -1,0 +1,2 @@
+# iSMS
+intelligent SMS manager 
